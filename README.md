@@ -1,0 +1,1 @@
+To assess my understanding of Artificial Intelligence, I created a simple AI Model using a Logistic Regression model to detect Insurance Fraud. Alongside this, I also created Infographics designed to educate and inform about Artificial Intelligence.
